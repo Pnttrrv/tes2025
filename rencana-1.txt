@@ -5,3 +5,5 @@ rencana
 4. lorem ipsum 4
 5. lorem ipsum 5
 6. lorem ipsum 6
+7. lorem ipsum dolor
+8. lorem ipsum dolor sit
